@@ -1,7 +1,3 @@
-Based on the code in main.py and typical best practices, here’s a detailed README draft for your ImageExtractor repo:
-
----
-
 # ImageExtractor
 
 **ImageExtractor** is a Python-based pipeline for extracting, deduplicating, and captioning frames from videos. It automates video downloading, frame extraction, advanced image deduplication (pixel and semantic), OCR-based filtering, and generates descriptive captions for the resulting images.

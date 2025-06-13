@@ -104,7 +104,3 @@ MIT License. See [LICENSE](LICENSE) for details.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) for video downloading.
 - OpenAI CLIP for semantic deduplication.
 - EasyOCR for text extraction.
-
----
-
-If you’d like, I can further tailor this README with author info, examples, or badges. Let me know!
